@@ -62,7 +62,7 @@ public class ForLoop {
             System.out.println("Multiplication" + outer);
             for (int inner = 1; inner <=10; inner ++){
                 System.out.print(inner);
-                System.out.print("X")
+                System.out.print("X");
                 System.out.println(outer);
                 System.out.print("=");
                 System.out.println(inner * outer);
